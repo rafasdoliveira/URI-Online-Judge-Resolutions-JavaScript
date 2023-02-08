@@ -1,0 +1,1 @@
+Resolução de atividades do URI ONLINE JUDGE - Beecrowd
