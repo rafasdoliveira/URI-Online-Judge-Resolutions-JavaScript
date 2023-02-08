@@ -4,6 +4,7 @@ var input = require('fs').readFileSync("stdin", "utf8");
 var lines = input.split('\n');
 
 var raio = parseFloat(lines.shift());
+////"parseFloat" Transforma um texto(string) em um número ponto flutuante 
 var pi = 3.14159;
 var area = pi * Math.pow(raio, 2);
 //Math.pow(base, expoente)
